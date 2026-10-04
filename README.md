@@ -35,4 +35,8 @@ npm run build
 
 Set `SITE_URL` in your deployment environment to the final HTTPS URL (for example, `https://www.yourdomain.co.uk`). It enables canonical URLs and the XML sitemap. After launch, submit `https://www.yourdomain.co.uk/sitemap.xml` to Google Search Console.
 
+## Optional Google Analytics
+
+Create a Google Analytics 4 web data stream for your production site, then set `GA_MEASUREMENT_ID` to its measurement ID (for example, `G-ABC123DEF4`). This is optional; analytics loads only when the value is set.
+
 The score is a screening aid only. It cannot check finance, theft, write-offs, service history, recall completion or true market value. Always verify the V5C and VIN and obtain an independent inspection.
