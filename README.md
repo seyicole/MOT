@@ -33,6 +33,6 @@ npm run build
 
 ## Before deployment
 
-Set `NEXT_PUBLIC_SITE_URL` in your deployment environment to the final HTTPS URL (for example, `https://www.yourdomain.co.uk`). It enables canonical URLs and the XML sitemap. After launch, submit `https://www.yourdomain.co.uk/sitemap.xml` to Google Search Console.
+Set `SITE_URL` in your deployment environment to the final HTTPS URL (for example, `https://www.yourdomain.co.uk`). It enables canonical URLs and the XML sitemap. After launch, submit `https://www.yourdomain.co.uk/sitemap.xml` to Google Search Console.
 
 The score is a screening aid only. It cannot check finance, theft, write-offs, service history, recall completion or true market value. Always verify the V5C and VIN and obtain an independent inspection.

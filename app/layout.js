@@ -1,6 +1,6 @@
 import './styles.css';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '');
+const siteUrl = process.env.SITE_URL?.replace(/\/$/, '');
 
 export const metadata = {
   metadataBase: siteUrl ? new URL(siteUrl) : undefined,
