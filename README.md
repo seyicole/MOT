@@ -1,4 +1,4 @@
-# Car Buying Advisor (Next.js + JavaScript)
+# MOT Brief (Next.js + JavaScript)
 
 A plain-JavaScript React/Next.js website for screening UK used cars. It uses official DVLA vehicle data and DVSA MOT history, then turns the results into an explainable health score and inspection prompts.
 
